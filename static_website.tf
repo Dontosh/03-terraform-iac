@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "frontend" {
-  bucket = var.strtor14_bucket
+  bucket = var.strtor
   acl    = "public-read"
   policy = <<EOF
 {
