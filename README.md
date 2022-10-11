@@ -1,3 +1,5 @@
+[![Terraform](https://github.com/Dontosh/03-terraform-iac/actions/workflows/pipeline.yaml/badge.svg)](https://github.com/Dontosh/03-terraform-iac/actions/workflows/pipeline.yaml)
+
 # Terraform &  S3 Webapp Lab
 
 I denne oppgaven vil du lage en nettside ved hjelp av Amazon S3. En S3 Bucket skal lages med Terraform og statiske websider skal 
