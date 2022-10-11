@@ -12,7 +12,7 @@ resource "aws_s3_bucket" "frontend" {
         "s3:GetObject"
       ],
       "Effect": "Allow",
-      "Resource": "arn:aws:s3:::${var.strtor14_bucket}/*",
+      "Resource": "arn:aws:s3:::${var.strtor}/*",
       "Principal": "*"
     }
   ]

@@ -1,4 +1,4 @@
-variable "strtor14_bucket" {
-  description = "strtor14's bucket"
+variable "strtor" {
+  description = "strtor's bucket"
   default     = "public-read"
 }
